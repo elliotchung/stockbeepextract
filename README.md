@@ -12,6 +12,7 @@ Windows 10 for the toast notifier to notify when the code has started and ended
 4. Edit the bat file to the location of your folder containing ATH_Extract.py and ATL_Extract.py
 
 For more information about how to trade these tickers:
+
 https://www.reddit.com/r/RealDayTrading/wiki/index/
 
 https://stockbeep.com/about-us
