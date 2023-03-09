@@ -1,4 +1,4 @@
 E:
-cd E:\OneDrive - Singapore Management University\Trading\StockBeep\
+cd E:\your-location\
 python ATL_Extract.py
 exit
