@@ -1,7 +1,7 @@
 # stockbeepextract
 Copies the ATH and ATL tickers from stockbeep.com with high RV
 ## Requirements:
-All the libraries required in ATH_Extract.py
+All the libraries required in ATH_Extract.py,
 Windows 10 for the toast notifier to notify when the code has started and ended
 
 ## Steps:
